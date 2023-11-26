@@ -1,6 +1,6 @@
 Clone Repository
 
-1: Clone the repository using git clone <repository_url>.
+1: Clone the repository using git clone https://github.com/HananAliSaeed/blog-app.git.
 Install Dependencies
 
 2: Run composer install to install PHP dependencies.
