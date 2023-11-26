@@ -17,7 +17,7 @@ class CreatePostsTable extends Migration
             $table->id();
             $table->string('title');
             $table->text('content');
-            $table->unsignedBigInteger('user_id'); // Assuming a foreign key to users table
+            $table->unsignedBigInteger('user_id'); 
             $table->timestamps();
         });
     }
